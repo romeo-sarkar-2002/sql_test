@@ -23,7 +23,7 @@
 -- 7) for this question, consider that branches are rated by their assets
 --    find all the branches in 'Chennai' that have more assets than bottom 5 branches in 'Mumbai' (if 'Mumbai' has less than 6 branches, then consider all those branches).
 
--- 8) a) find all cities that have at least one branch.
+-- 8) a) find all cities that have at only one branch.
 --    b) find all cities that have at least two branches.
 --    c) find all cities that have at least three branches.
 
